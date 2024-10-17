@@ -152,7 +152,8 @@ int main()
 
 
 ### 3. Reverse Of A String
-Screenshot 2024-09-13 114125
+![image](https://github.com/user-attachments/assets/06ec335e-79da-48d5-b69e-8ab7b321f9fa)
+
 
 ### 4. Reverse Of A Integer
 Screenshot 2024-09-13 114633
