@@ -144,7 +144,8 @@ int main()
 ~~~
 ## Outputs :
 ### 1. Factorial
-Screenshot 2024-09-13 113925
+![image](https://github.com/user-attachments/assets/bb99e401-d6e5-4f84-b2af-d4231d3b39d5)
+
 
 ### 2. Addition
 Screenshot 2024-09-13 113950
