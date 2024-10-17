@@ -114,7 +114,7 @@ int main()
     return 0;
 }
 ~~~
-4. Reverse Of A Integer
+### 4. Reverse Of A Integer
 ~~~
 //soham
 //entc B1
