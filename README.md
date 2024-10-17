@@ -148,7 +148,8 @@ int main()
 
 
 ### 2. Addition
-Screenshot 2024-09-13 113950
+![image](https://github.com/user-attachments/assets/2771b422-36ef-4abf-98ae-4371d82b6694)
+
 
 ### 3. Reverse Of A String
 Screenshot 2024-09-13 114125
