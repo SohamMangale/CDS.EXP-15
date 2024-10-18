@@ -156,7 +156,8 @@ int main()
 
 
 ### 4. Reverse Of A Integer
-Screenshot 2024-09-13 114633
+![image](https://github.com/user-attachments/assets/da498d41-14af-4ee8-ba54-d45e0a2c3d69)
+
 
 ## Conclusion :
 We effectively studied and implemented the idea of recursion in C++ in this experiment. Examples of recursion, which is the process by which a function calls itself to solve smaller sub-problems, included finding the factorial, creating Fibonacci sequences, and searching algorithms. By examining recursive functions, we discovered the following important realizations:
